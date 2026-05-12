@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 # Configuration
-API_KEY = "a3cfe61893d4d7e24df3bdc79a257da4"  # Replace with your OpenWeatherMap API key
+API_KEY = "your_weather_api"  # Replace with your OpenWeatherMap API key
 UNITS = "metric"  # "metric" for Celsius, "imperial" for Fahrenheit
 
 class WeatherApp:
